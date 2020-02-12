@@ -11,5 +11,10 @@ public class JavaSample {
 	{
 		// code of test case will be written here
 	}
+	
+	public void TestCase2()
+	{
+		//code of test case 2 will be written here
+	}
 
 }
